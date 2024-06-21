@@ -11,6 +11,15 @@ On Windows, it shows missing header files and I have yet to find a way to fix th
 
 Though the code may be similar to `kilo.c` mentioned in the credits I plan to add some stuff. 
 
+## Features
+- Can open a file or create a new one.
+- Can Save a file with Ctrl-S
+- Has Syntax Highlighting for Numbers and Keywords of C language.
+- Can quit with Ctrl-Q and is prompted to press it 3 more times if the file is not saved.
+- Shows the name of the file and the number of lines in it.
+- Shows if the file is Modified.
+- Can use Ctrl-F to Find text in the file.
+
 ## TO DO
 - [ ] Add syntax highlighting rules for common functions in C like printf, scanf, etc.
 - [ ] Display the line number to the left of each line.
