@@ -1,5 +1,8 @@
-# Elliot
+<p align="center"> <a href="https://github.com/Aakif-Kohari/Elliot">
+  <img src="https://github.com/Aakif-Kohari/Elliot/assets/159609181/c644130b-9eb9-4642-a201-33ec562f0a7b" alt="Elliot" width="200" height="200">
+</p>
 
+# Elliot
 Elliot is a basic text editor made using C.
 It runs on the command line/terminal.
 
